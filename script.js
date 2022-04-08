@@ -16,7 +16,7 @@ function answer(){
     else{
     var decoded =storage.replace(/x/gi,"*");
     result.innerHTML=eval(decoded);
-    temp=""; 
+    storage=""; 
     }
 }
 catch{
