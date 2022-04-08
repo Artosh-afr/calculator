@@ -179,7 +179,7 @@ h1{
         -o-border-radius:10px ;
         overflow: auto;
         height: 3.5rem;
-       
+       -webkit-overflow-scrolling: touch;
         margin:1rem 0 .5rem 0;
        position: relative;
     }
