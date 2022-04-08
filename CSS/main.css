@@ -138,6 +138,7 @@ h1{
       
         }
         .slider{
+            cursor:pointer;
              appearance: none;
              width: 50px;
              padding: 5px;
