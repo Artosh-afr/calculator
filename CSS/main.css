@@ -132,7 +132,7 @@ h1{
   
     
 }
-        #title_theme p , .slider{
+        #title_theme label , .slider{
             display: inline;
             font-size: .3rem;
       
