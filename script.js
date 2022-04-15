@@ -10,8 +10,6 @@ function Primary_keys(elem){
 }
 function answer(){
     try{
-
-   
     if(storage=="")return
     else{
     var decoded =storage.replace(/x/gi,"*");
@@ -20,7 +18,8 @@ function answer(){
     }
 }
 catch{
-    result.innerHTML="Syntax Error"
+    result.innerHTML="Syntax Error";
+    storage=""; 
 }
 }
 
