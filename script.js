@@ -1,5 +1,5 @@
 //I really wanna cry right now
-
+"use strict";
 //calculations
 var storage="";
 var result=document.querySelector(".result");
